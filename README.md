@@ -76,12 +76,10 @@ After submitting the pull request, a member of the project steering committee wh
 
 The PEP will be open for community discussion for 2-4 weeks after the community was notified.
 
-During this time, anyone in the community may comment on the proposal by posting comments:
+During this time, anyone in the community may comment on the proposal by posting comments on the pull request thread.
 
-- On the pull request thread **(preferred)**
-- In the `#proposals` Slack channel
-- On groups.io mailing list on the proposal thread
-- During the Good Docs Project general weekly meeting
+The length of the open comment period will depend on comment activity.
+If the community is actively commenting on the PEP after 2 weeks, the commentary period will extend up to a maximum of 4 weeks to allow the discussion to continue.
 
 When making comments, community members should be aware that:
 
@@ -110,7 +108,7 @@ During the final comment period, the members of the [project steering committee]
 
 In order to be accepted, at least half of the current project steering committee members must vote in favor of the proposal. Votes from general community member are non-binding, but will be taken into consideration.
 
-Abstaining or absent votes from project steering committee members will be treated as an indifferent vote.
+Abstaining or absent votes from project steering committee members will be treated as indifferent votes.
 
 
 ### 5. Implement
