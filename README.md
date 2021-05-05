@@ -100,13 +100,16 @@ If the proposer revises the PEP, they should notify the community on the pull re
 Once the initial comment period has ended, the PEP will enter the final comment status, which will last 1-2 weeks.
 During the final comment period, the members of the [project steering committee](https://thegooddocsproject.dev/who-we-are/) and community members may make any final comments and indicate their vote on the proposal:
 
-- **+1** - In favor of the proposal
-- **+0** - Mildly for, but mostly indifferent
-- **0** - Indifferent
-- **-0** - Mildly against, but mostly indifferent
-- **-1** - Strongly against. This is expected to be accompanied by a reason.
+| Vote   | Meaning                                                           |
+| ------ | ----------------------------------------------------------------- |
+| **+1** | In favor of the proposal                                          |
+| **+0** | Mildly for, but mostly indifferent                                |
+| **0**  | Indifferent                                                       |
+| **-0** | Mildly against, but mostly indifferent                            |
+| **-1** | Strongly against. This is expected to be accompanied by a reason. |
 
-In order to be accepted, at least half of the current project steering committee members must vote in favor of the proposal. Votes from general community member are non-binding, but will be taken into consideration.
+In order to be accepted, at least half of the current project steering committee members must vote in favor of the proposal.
+Votes from general community members are non-binding, but will be taken into consideration.
 
 Abstaining or absent votes from project steering committee members will be treated as indifferent votes.
 

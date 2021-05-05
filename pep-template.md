@@ -23,22 +23,22 @@ Put your name and/or your Slack handle here
 
 ## Proposal overview
 
-Summarize your proposal in this section in about 1-2 paragraphs.
+{{Summarize your proposal in this section in about 1-2 paragraphs.}}
 
 
 ## Motivation
 
-What problem does this proposal try to solve?
+{{What problem does this proposal try to solve?}}
 
 
 ## Proposal
 
-Explain the proposal in more depth here and make your best argument for its adoption.
+{{Explain the proposal in more depth here and make your best argument for its adoption.}}
 
 
 ## Links
 
-This section is optional if you want to [link](https://example.com) to other resources.
+{{This section is optional if you want to [link](https://example.com) to other resources.}}
 
 
 ## Implemention checklist
@@ -66,4 +66,4 @@ Project steering committee (listed alphabetically by first name):
 
 Community members who voted (non-binding):
 
-- Your name here
+- Your name here:
