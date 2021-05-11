@@ -1,19 +1,19 @@
-Use this template when submitting a project enhancement proposal (PEP) to the Good Docs Project
-
-See the [README](README.md) for more information about the process.
+{{
+- Use this template when submitting a project enhancement proposal (PEP) to the Good Docs Project.
+- See the [README](README.md) for more information about the process.
+}}
 
 # Title of your proposal
 
 ## Proposed by
 
-Put your name and/or your Slack handle here
-
+{{Put your name and/or your Slack handle here.}}
 
 ## Current status
 
-- [x] Draft {{leave in a draft state until you submit your pull request}}
-- [ ] Under discussion (until YYYY-MM-DD) {{do not fill in this date yet}}
-- [ ] Final comment and voting (until YYYY-MM-DD) {{do not fill in this date yet}}
+- [x] Draft {{Leave in a draft state until you submit your pull request.}}
+- [ ] Under discussion (until YYYY-MM-DD) {{Add date after selecting this status.}}
+- [ ] Final comment and voting (until YYYY-MM-DD) {{Add date after selecting this status.}}
 - [ ] Accepted
 - [ ] Rejected
 - [ ] Implemented
@@ -40,6 +40,12 @@ Put your name and/or your Slack handle here
 
 {{This section is optional if you want to [link](https://example.com) to other resources.}}
 
+## Feedback
+{{Reviewer name}}:
+- {{I suggest that ...}}
+    - {{Community member name}}: {{Additional comment on same topic.}}
+    - {{Proposer name}}: {{Addressed by ... / Ignored because ... / ...}}
+
 
 ## Implemention checklist
 
@@ -50,7 +56,9 @@ If this proposal is accepted, the following tasks must be completed:
 - [ ] Task number three, etc.
 
 
-## Voting
+## Votes
+
+Votes as per our [decision process](https://thegooddocsproject.dev/decisions/}:
 
 Project steering committee (listed alphabetically by first name):
 
@@ -66,4 +74,4 @@ Project steering committee (listed alphabetically by first name):
 
 Community members who voted (non-binding):
 
-- Your name here:
+- {{Your name}}: {{Your vote}}
